@@ -27,10 +27,10 @@ Main Code Location:
 Unit Tests Code Location:
 	./baristamatic_gradle/src/test/java/...
 
-Unit Tests HTML Report File Location:
+Unit Tests HTML report file will be at:
 	./baristamatic_gradle/build/reports/tests/index.html
 	
-Code Coverage HTML Report File Location:
+Code Coverage HTML report file will be at:
 	./baristamatic_gradle/build/reports/coverage/index.html
 
 ```
@@ -92,7 +92,7 @@ To see a sample video demo of this project, click at
 
 <br><br>
 
-##Java Unit Tests   ([junit tooll](http://junit.org/junit4/))
+##Java Unit Tests   ([junit tool](http://junit.org/junit4/))
 ![Java Unit Testing Report](documents/images/junit.png)
 
 <br><br>
