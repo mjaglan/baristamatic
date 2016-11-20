@@ -99,7 +99,7 @@ tasks - Displays the tasks runnable from root project 'baristamatic_gradle'.
 
 <br>
 
-##Deve Platform
+##Dev Platform
 ```
 Project Type: Gradle Project
 
