@@ -1,0 +1,11 @@
+{
+"Coffee":[10,0.75],
+"Decaf Coffee":[10,0.75],
+"Sugar":[10,0.25],
+"Cream":[10,0.25],
+"Steamed Milk":[10,0.35],
+"Foamed Milk":[10,0.35],
+"Espresso":[10,1.10],
+"Cocoa":[10,0.90],
+"Whipped Cream":[10,1.00]
+}
