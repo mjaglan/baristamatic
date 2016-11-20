@@ -83,7 +83,12 @@ tasks - Displays the tasks runnable from root project 'baristamatic_gradle'.
   ```bash
   java -jar ./baristamatic_gradle.jar
   ```
-    
+
+To see a sample video demo of this project, click at 
+[//]: # (http://meta.stackexchange.com/questions/2133/whats-the-recommended-syntax-for-an-image-with-a-link)
+[//]: # (http://meta.stackexchange.com/questions/38915/creating-an-image-link-in-markdown-format)
+<a href="https://www.youtube.com/watch?v=CHrUhd3zcYY" rel="java: baristamatic demo 1">![baristamatic demo link](documents/images/youtube.logo.gif)]</a>
+
 
 <br><br>
 
