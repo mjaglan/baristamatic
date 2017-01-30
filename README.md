@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mjaglan/baristamatic.svg?branch=master)](https://travis-ci.org/mjaglan/baristamatic)
+
 # Barista-matic Assignment
 
 ##Problem Description  ([pdf here](documents/Problem Statement.pdf))
