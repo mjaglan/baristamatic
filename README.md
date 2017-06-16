@@ -2,7 +2,7 @@
 
 # Barista-matic Assignment
 
-## Problem Description  ([pdf here](documents/Problem Statement.pdf))
+## Problem Description  ([pdf here](documents/Problem%20Statement.pdf))
 Create a simulator of an automatic coffee dispensing machine, called the Barista-matic. The machine maintains an inventory of drink ingredients, and is able to dispense a fixed set of possible drinks by combining these ingredients in different amounts.
 
 <br>
@@ -93,7 +93,7 @@ http://meta.stackexchange.com/questions/2133/whats-the-recommended-syntax-for-an
 http://meta.stackexchange.com/questions/38915/creating-an-image-link-in-markdown-format
 https://superuser.com/questions/1129349/syntax-for-comments-in-githubs-readme-md
 -->
-<a href="https://www.youtube.com/watch?v=CHrUhd3zcYY" rel="java: baristamatic demo 1">![baristamatic demo link](documents/images/youtube.logo.gif)]</a>
+<a href="https://www.youtube.com/watch?v=CHrUhd3zcYY" rel="java: baristamatic demo 1">![baristamatic demo link](documents/images/youtube.logo.gif)</a>
 
 
 <br><br>
