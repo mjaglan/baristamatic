@@ -2,12 +2,12 @@
 
 # Barista-matic Assignment
 
-##Problem Description  ([pdf here](documents/Problem Statement.pdf))
+## Problem Description  ([pdf here](documents/Problem Statement.pdf))
 Create a simulator of an automatic coffee dispensing machine, called the Barista-matic. The machine maintains an inventory of drink ingredients, and is able to dispense a fixed set of possible drinks by combining these ingredients in different amounts.
 
 <br>
 
-##Project Details
+## Project Details
 ```
 Implemented:
 - java main code
@@ -40,7 +40,7 @@ Code Coverage HTML report file will be at:
 
 <br>
 
-##Build System  ([Gradle](https://discuss.gradle.org/t/gradle-2-14-released/18040))
+## Build System  ([Gradle](https://discuss.gradle.org/t/gradle-2-14-released/18040))
 
 ```gradle
 ------------------------------------------------------------
@@ -62,13 +62,13 @@ tasks - Displays the tasks runnable from root project 'baristamatic_gradle'.
 
 <br><br>
 
-##Input Resources
+## Input Resources
   - [inventory.json](baristamatic_gradle/res/inventory.json) has JSON records which contains all ingredients.
   - [menu.json](baristamatic_gradle/res/menu.json) has JSON records which contains all drinks menu with their recipe.
 
 <br>
 
-##How to run?
+## How to run?
 - Install Gradle Build Tool (click [here](https://www.javacodegeeks.com/2013/04/how-to-install-gradle-2.html) for reference)
 - For eclipse, install Buildship 1.0.16 Plugin for Gradle 2.14 (click [here](https://projects.eclipse.org/projects/tools.buildship/releases/1.0.16) for reference)
 
@@ -98,7 +98,7 @@ https://superuser.com/questions/1129349/syntax-for-comments-in-githubs-readme-md
 
 <br><br>
 
-##Java Unit Tests   ([junit tool](http://junit.org/junit4/))
+## Java Unit Tests   ([junit tool](http://junit.org/junit4/))
 ![Java Unit Testing Report](documents/images/junit.png)
 
 <br><br>
@@ -110,7 +110,7 @@ https://superuser.com/questions/1129349/syntax-for-comments-in-githubs-readme-md
 
 <br>
 
-##Dev Platform
+## Dev Platform
 ```
 Project Type: Gradle Project
 
